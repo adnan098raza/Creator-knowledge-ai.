@@ -14,3 +14,8 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+# Local Qdrant storage
+qdrant_data/
+
+# Node
+node_modules/
